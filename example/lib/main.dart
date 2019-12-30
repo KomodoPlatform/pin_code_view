@@ -46,6 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
       onCodeFail: (code) {
         print(code);
       },
+      showLetters: true,
     ));
   }
 }
